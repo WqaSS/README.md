@@ -17,4 +17,4 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WqaSS&exclude_repo=eslint-config&theme=dracula" />
   </p>
 </center>
-<a target="_blank" href="https://dsc.gg/percocet" style="color:white; text-decoration:none;"><h2 align="center">💊</h2></a>
+<a target="_blank" href="https://dsc.gg/percocet" style="color:white; text-decoration:none;"><h2 align="center">Wqa$$</h2></a>
