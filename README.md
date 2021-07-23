@@ -1,8 +1,5 @@
-<script>
-  import React from 'react';
-  import { Discord, Github, Google } from 'react-bootstrap-icons';
-</script>
-
+<html>
+<body>
 <h2>💊</h2>
 <center>
   <p>
@@ -11,3 +8,5 @@
     <a target="_blank" href="https://discord.gg/gPQaN8GTQT" rel="noreferrer"><Discord size={40}/></a>
   </p>
 </center>
+</body>
+</html>
