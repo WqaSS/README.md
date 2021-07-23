@@ -1,5 +1,9 @@
 <html>
 <body>
+  <script>
+  import React from 'react';
+  import { Discord, Github, Google } from 'react-bootstrap-icons';
+</script>
 <h2>💊</h2>
 <center>
   <p>
